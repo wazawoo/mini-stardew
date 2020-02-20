@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "14395838-6c86-4bb9-8186-fdf0d49a4ec5",
+            "Value": {
+                "id": "553e8c33-9889-4e91-a38d-e70bec87127c",
+                "resourcePath": "objects\/oRing\/oRing.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "465bde62-e281-42ba-9acf-0a7a69dda117",
             "Value": {
                 "id": "9c307f30-5e67-45b0-90dc-7f9d934661cf",
@@ -68,6 +76,14 @@
                 "id": "61aa044b-4d8b-40d4-8547-a39498720117",
                 "resourcePath": "views\/4f4c0a5e-2808-4b4d-acb9-b9821f75206d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "502f7850-40e7-4969-afa1-a847044e4444",
+            "Value": {
+                "id": "4d215c2a-23ec-42c1-84fe-2d937116a2b7",
+                "resourcePath": "scripts\/macros\/macros.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -108,6 +124,14 @@
                 "id": "9e285c7a-f6b7-4b73-a836-32c55350fc83",
                 "resourcePath": "options\/ios\/options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "881a5cc6-d82c-433b-9e5a-2e1222ff76c3",
+            "Value": {
+                "id": "069139f0-6158-498a-9cb2-e69973138375",
+                "resourcePath": "sprites\/sRing\/sRing.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -240,7 +264,7 @@
         }
     ],
     "script_order": [
-        
+        "502f7850-40e7-4969-afa1-a847044e4444"
     ],
     "tutorial": ""
 }
