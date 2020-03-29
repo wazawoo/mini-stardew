@@ -1,1 +1,2 @@
 #macro TILE_SIZE 16
+#macro SPROUT_IMAGE_SPEED 0.5
