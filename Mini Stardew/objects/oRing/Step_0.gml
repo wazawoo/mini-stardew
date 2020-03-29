@@ -13,10 +13,11 @@ x += TILE_SIZE*(keyRight - keyLeft);
 y += TILE_SIZE*(keyDown - keyUp);
 
 if (keySpace) {
-	//reset a plant if we press space on it
+	//reset a plant if we press space on it and it is fully grown
 	var sprout = instance_position(x, y, oSprout);
-	if (sprout != noone) {
+	if (sprout != noone && sprout.image_index == sprout.image_number - 1) {
 		sprout.image_index = 0;
 		sprout.image_speed = SPROUT_IMAGE_SPEED;
+		audio_play_sound(choose(plunk1, plunk2, plunk3, plunk4, plunk5, plunk6), 1, false);
 	}
 }
