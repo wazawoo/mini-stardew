@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSprout",
     "eventList": [
-        
+        {
+            "id": "edf6f301-42b1-45ef-a7da-09e1ea73843d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a11f06c8-128d-46d4-9e0c-f726b20bf74b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
