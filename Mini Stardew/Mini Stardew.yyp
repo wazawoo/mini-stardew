@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "848fd6ec-3aba-4fb9-9dd5-897af7aaaf57",
+                "resourcePath": "options\/linux\/options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "b43204b0-c6c6-40be-a5e8-5cd8c61a2491",
             "Value": {
                 "id": "c15d8647-cbda-4202-883c-81ee19ada687",
@@ -236,6 +244,14 @@
                 "id": "73641a76-2978-4eb1-809b-02894d4d4685",
                 "resourcePath": "sprites\/sTiles\/sTiles.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "7d17e897-0747-41ef-919c-533d7f78ee19",
+                "resourcePath": "options\/windows\/options_windows.yy",
+                "resourceType": "GMWindowsOptions"
             }
         },
         {
