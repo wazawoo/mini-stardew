@@ -8,7 +8,7 @@ You can:
 * Pluck the plant with the spacebar once it is finished growing
 
 I am testing the following:
-1. Host a GameMaker game on GitHub Pages [wazawoo.github.io/mini-stardew](wazawoo.github.io/mini-stardew)
+1. Host a GameMaker game on GitHub Pages [wazawoo.github.io/mini-stardew](https://wazawoo.github.io/mini-stardew/)
 2. Allow downloads of macOS and Windows builds via this website
 
 See you at Ludum Dare 46!
