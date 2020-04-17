@@ -6,4 +6,4 @@
 *DOWNLOAD BELOW:*
 
 * [Windows](builds/Mini Stardew Windows.zip)
-* [macOS](builds/Mini-Stardew.zip)
+* [macOS](builds/Mini Stardew.dmg)
